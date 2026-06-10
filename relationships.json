@@ -1,0 +1,26 @@
+[
+  {
+    "a": "Sukuna",
+    "b": "Gojo Satoru",
+    "type": "RIVALRY",
+    "intensity": "EXTREME"
+  },
+  {
+    "a": "Fyodor Dostoevsky",
+    "b": "Dazai Osamu",
+    "type": "MENTAL_CHAOS_LOOP",
+    "intensity": "HIGH"
+  },
+  {
+    "a": "Tanjiro Kamado",
+    "b": "Inosuke Hashibira",
+    "type": "TRUST",
+    "intensity": "HIGH"
+  },
+  {
+    "a": "Bakugo Katsuki",
+    "b": "Midoriya Izuku",
+    "type": "RIVALRY_TURNED_TRUST",
+    "intensity": "HIGH"
+  }
+]
