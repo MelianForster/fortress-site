@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ryomen Sukuna",
+    "world": "Jujutsu Kaisen",
+    "age": "10000+",
+    "role": "Curse Entity / Combat Apex",
+    "risk": "EXTREME"
+  },
+  {
+    "name": "Fyodor Dostoevsky",
+    "world": "Bungo Stray Dogs",
+    "age": "150+",
+    "role": "Strategist",
+    "risk": "EXTREME"
+  },
+  {
+    "name": "Gojo Satoru",
+    "world": "Jujutsu Kaisen",
+    "age": "28",
+    "role": "Sorcerer",
+    "risk": "LOW"
+  },
+  {
+    "name": "Tanjiro Kamado",
+    "world": "Demon Slayer",
+    "age": "15",
+    "role": "Demon Slayer",
+    "risk": "LOW"
+  }
+]
