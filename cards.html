@@ -111,7 +111,34 @@ input {
   </div>
 </div>
 
-<script>
+<scriptfunction renderHeatmap(data) {
+  const heat = document.getElementById("heatmap");
+
+  let html = "";
+
+  data.forEach(p => {
+    let color =
+      p.risk === "LOW" ? "green" :
+      p.risk === "MEDIUM" ? "orange" :
+      p.risk === "HIGH" ? "red" :
+      "darkred";
+
+    html += `
+      <div style="
+        display:inline-block;
+        margin:5px;
+        padding:10px;
+        border-radius:8px;
+        background:${color};
+        color:white;
+      ">
+        ${p.name}
+      </div>
+    `;
+  });
+
+  heat.innerHTML = html;
+}>
 let data = [];
 
 // LOAD JSON DATABASE
