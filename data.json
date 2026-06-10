@@ -26,5 +26,9 @@
     "age": "15",
     "role": "Demon Slayer",
     "risk": "LOW"
+
+    <button onclick="location.href='map.html'">
+Open Influence Map
+</button>
   }
 ]
